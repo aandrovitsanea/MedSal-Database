@@ -1,4 +1,4 @@
-# Access to the database of the MedSal project in Python computational environment
+# MedSal database command line client
 
 This project provides the connection and tools to query the [database](https://www.uhydro.de/medsaldba/) of the [MedSal](https://medsal.eu/) project on salinization of critical groundwater reserves in coastal Mediterranean areas: Identification, Risk Assessment, and Sustainable Management with the use of integrated modeling and smart ICT tools.
 
@@ -41,10 +41,10 @@ The database consists of the following entities with data from Rhodope (Greece),
 ## Scripts
 
 
-You can either open the (Jupyter notebook)[Connect and query the MedSal database.ipynb] or run the script as following:
+You can either open the [Jupyter notebook](Connect_and_query_the_MedSal_database.ipynb] or run the script as following:
 
 ```
-python medsal_db.py
+python2 medsal_db.py
 ```
 
 ### Requirements:
