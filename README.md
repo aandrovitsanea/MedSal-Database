@@ -49,7 +49,11 @@ python2 medsal_db.py
 
 ### Requirements:
 
+#### Jupyter Notebook
+
 `Connect_and_query_the_MedSal_database.ipynb` was developed using Python 3.8.6 on Ubuntu 20.04.1 LTS.
+
+#### Script
 
 `medsal_db.py` was developed using Python 2.7.16 on Debian 10.7 (buster).
 
