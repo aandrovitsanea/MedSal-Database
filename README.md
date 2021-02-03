@@ -41,13 +41,15 @@ The database consists of the following entities with data from Rhodope (Greece),
 ## Scripts
 
 
-You can either open the [Jupyter notebook](Connect_and_query_the_MedSal_database.ipynb] or run the script as following:
+You can either open the [Jupyter notebook](Connect_and_query_the_MedSal_database.ipynb) or run the script as following:
 
 ```
 python2 medsal_db.py
 ```
 
 ### Requirements:
+
+`Connect_and_query_the_MedSal_database.ipynb` was developed using Python 3.8.6 on Ubuntu 20.04.1 LTS.
 
 `medsal_db.py` was developed using Python 2.7.16 on Debian 10.7 (buster).
 
