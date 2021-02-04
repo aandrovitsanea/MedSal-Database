@@ -51,7 +51,7 @@ python2 medsal_db.py
 
 #### Jupyter Notebook
 
-`Connect_and_query_the_MedSal_database.ipynb` was developed using Python 3.8.6 on Ubuntu 20.04.1 LTS.
+`Connect_and_query_the_MedSal_database.ipynb` was developed using Python 3.8.6 on Ubuntu 20.04.1 LTS (Focal Fossa).
 
 #### Script
 
