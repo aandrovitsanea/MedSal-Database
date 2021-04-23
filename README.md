@@ -57,6 +57,10 @@ python2 medsal_db.py
 
 `medsal_db.py` was developed using Python 2.7.16 on Debian 10.7 (buster).
 
+#### Google Colab
+
+Access and use the notebook online via [Google Colab](https://colab.research.google.com/drive/1kDAh6KylaEQQ5h2yfZIG180EuI-XNp2_?usp=sharing).
+
 It has been tested with the following package versions:
 
 * mysql-connector-python == 8.0.23
